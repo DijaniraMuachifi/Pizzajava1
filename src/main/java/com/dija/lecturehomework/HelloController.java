@@ -106,7 +106,7 @@ public class HelloController {
     @FXML
     private TableColumn<MarketPosition, String> currencyColumn; 
     @FXML
-    private TableColumn<MarketPosition, Integer> quantityColumn; // Coluna para a quantidade
+    private TableColumn<MarketPosition, Integer> quantityColumn; 
     @FXML
     private TableColumn<MarketPosition, String> statusColumn; // Coluna para o status da ordem
 
