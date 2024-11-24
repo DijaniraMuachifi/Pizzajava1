@@ -69,7 +69,7 @@ public class HelloController {
     @FXML
     private TableView<Pizza> pizzaTableView;
     @FXML
-    private TableView<ResultJoin> resultJoinTableView; // Tabela para exibir pizzas
+    private TableView<ResultJoin> resultJoinTableView; 
     @FXML
     private TableView<Category> categoryTableView; // Tabela para exibir categorias
     @FXML
