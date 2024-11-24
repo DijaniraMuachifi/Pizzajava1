@@ -102,7 +102,7 @@ public class HelloController {
     private NumberAxis yAxis;
     private XYChart.Series<String, Number> series;
     @FXML
-    private TableView<MarketPosition> positionTableView; // Tabela para exibir posições de mercado
+    private TableView<MarketPosition> positionTableView; 
     @FXML
     private TableColumn<MarketPosition, String> currencyColumn; // Coluna para o par de moedas
     @FXML
