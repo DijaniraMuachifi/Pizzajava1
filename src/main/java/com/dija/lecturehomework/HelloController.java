@@ -77,7 +77,7 @@ public class HelloController {
     @FXML
     private ComboBox<String> pizzaComboBox; 
     @FXML
-    private ComboBox<String> categoryComboBox; // ComboBox para selecionar categoria
+    private ComboBox<String> categoryComboBox; 
     @FXML
     private TextField pnameTextField; // TextField para o nome da pizza
     @FXML
