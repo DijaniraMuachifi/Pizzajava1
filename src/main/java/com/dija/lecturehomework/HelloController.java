@@ -108,7 +108,7 @@ public class HelloController {
     @FXML
     private TableColumn<MarketPosition, Integer> quantityColumn; 
     @FXML
-    private TableColumn<MarketPosition, String> statusColumn; // Coluna para o status da ordem
+    private TableColumn<MarketPosition, String> statusColumn; 
 
     // OANDA API context
     private Context ctx = new Context(Config.URL, Config.TOKEN);
