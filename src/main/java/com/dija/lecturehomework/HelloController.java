@@ -83,7 +83,7 @@ public class HelloController {
     @FXML
     private TextField cnameTextField; // TextField para o nome da categoria
     @FXML
-    private TextField priceTextField; // TextField para o preço da categoria
+    private TextField priceTextField; 
     @FXML
     private Button downloadButton;
     @FXML
