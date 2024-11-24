@@ -213,7 +213,7 @@ public class HelloController {
     private List<String> getCategoryNamesFromDatabase() {
         List<String> categoryNames = new ArrayList<>();
 
-        String query = "SELECT cname FROM category";  // Consulta para pegar todos os nomes das categorias
+        String query = "SELECT cname FROM category";  
 
         try (Connection connection = DatabaseHelper.connect();  // Conecta com o banco
              Statement stmt = connection.createStatement();  // Cria um statement
