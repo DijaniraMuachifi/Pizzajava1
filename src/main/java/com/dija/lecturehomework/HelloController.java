@@ -81,7 +81,7 @@ public class HelloController {
     @FXML
     private TextField pnameTextField; // TextField para o nome da pizza
     @FXML
-    private TextField cnameTextField; // TextField para o nome da categoria
+    private TextField cnameTextField; 
     @FXML
     private TextField priceTextField; 
     @FXML
