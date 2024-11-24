@@ -73,7 +73,7 @@ public class HelloController {
     @FXML
     private TableView<Category> categoryTableView; 
     @FXML
-    private TableView<Orders> ordersTableView; // Tabela para exibir pedidos
+    private TableView<Orders> ordersTableView;
     @FXML
     private ComboBox<String> pizzaComboBox; // ComboBox para selecionar pizza
     @FXML
