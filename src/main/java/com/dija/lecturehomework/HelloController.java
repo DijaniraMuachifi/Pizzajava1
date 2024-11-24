@@ -71,7 +71,7 @@ public class HelloController {
     @FXML
     private TableView<ResultJoin> resultJoinTableView; 
     @FXML
-    private TableView<Category> categoryTableView; // Tabela para exibir categorias
+    private TableView<Category> categoryTableView; 
     @FXML
     private TableView<Orders> ordersTableView; // Tabela para exibir pedidos
     @FXML
