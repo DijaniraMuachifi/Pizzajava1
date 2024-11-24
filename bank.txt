@@ -1,0 +1,2 @@
+<MNBExchangeRates><Day date="2024-10-31" /></MNBExchangeRates>
+Metadata: Data generated with option Detailed Data
