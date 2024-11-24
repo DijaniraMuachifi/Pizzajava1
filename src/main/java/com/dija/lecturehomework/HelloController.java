@@ -110,7 +110,7 @@ public class HelloController {
     @FXML
     private TableColumn<MarketPosition, String> statusColumn; 
 
-    // OANDA API context
+    
     private Context ctx = new Context(Config.URL, Config.TOKEN);
 
 
