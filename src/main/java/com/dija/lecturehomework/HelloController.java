@@ -104,7 +104,7 @@ public class HelloController {
     @FXML
     private TableView<MarketPosition> positionTableView; 
     @FXML
-    private TableColumn<MarketPosition, String> currencyColumn; // Coluna para o par de moedas
+    private TableColumn<MarketPosition, String> currencyColumn; 
     @FXML
     private TableColumn<MarketPosition, Integer> quantityColumn; // Coluna para a quantidade
     @FXML
