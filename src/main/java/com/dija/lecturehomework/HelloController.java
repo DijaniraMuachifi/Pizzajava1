@@ -79,7 +79,7 @@ public class HelloController {
     @FXML
     private ComboBox<String> categoryComboBox; 
     @FXML
-    private TextField pnameTextField; // TextField para o nome da pizza
+    private TextField pnameTextField; 
     @FXML
     private TextField cnameTextField; 
     @FXML
