@@ -75,7 +75,7 @@ public class HelloController {
     @FXML
     private TableView<Orders> ordersTableView;
     @FXML
-    private ComboBox<String> pizzaComboBox; // ComboBox para selecionar pizza
+    private ComboBox<String> pizzaComboBox; 
     @FXML
     private ComboBox<String> categoryComboBox; // ComboBox para selecionar categoria
     @FXML
