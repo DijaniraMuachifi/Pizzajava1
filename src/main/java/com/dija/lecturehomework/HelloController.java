@@ -69,17 +69,17 @@ public class HelloController {
     @FXML
     private TableView<Pizza> pizzaTableView;
     @FXML
-    private TableView<ResultJoin> resultJoinTableView; // Tabela para exibir pizzas
+    private TableView<ResultJoin> resultJoinTableView; 
     @FXML
-    private TableView<Category> categoryTableView; // Tabela para exibir categorias
+    private TableView<Category> categoryTableView; 
     @FXML
-    private TableView<Orders> ordersTableView; // Tabela para exibir pedidos
+    private TableView<Orders> ordersTableView; 
     @FXML
-    private ComboBox<String> pizzaComboBox; // ComboBox para selecionar pizza
+    private ComboBox<String> pizzaComboBox; 
     @FXML
-    private ComboBox<String> categoryComboBox; // ComboBox para selecionar categoria
+    private ComboBox<String> categoryComboBox; 
     @FXML
-    private TextField pnameTextField; // TextField para o nome da pizza
+    private TextField pnameTextField; 
     @FXML
     private TextField cnameTextField; 
     @FXML
