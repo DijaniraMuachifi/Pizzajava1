@@ -10,11 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6b8cdc2-b74b-400f-a128-e4c8803799b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dija/lecturehomework/MainProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1ce358ef-3f18-48be-bf86-77f1d2142c16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1ce358ef-3f18-48be-bf86-77f1d2142c16/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/dija/lecturehomework/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dija/lecturehomework/HelloController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +65,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Pizzajava1",
@@ -152,7 +148,7 @@
       <workItem from="1732533521479" duration="2425000" />
       <workItem from="1732617180522" duration="1445000" />
       <workItem from="1732619654264" duration="4970000" />
-      <workItem from="1732747119219" duration="1509000" />
+      <workItem from="1732747119219" duration="2652000" />
     </task>
     <servers />
   </component>
