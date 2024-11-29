@@ -74,8 +74,6 @@ public class HelloController {
     private TableView<Category> categoryTableView; 
     @FXML
 
-    private TableView<Orders> ordersTableView; 
-
     private TableView<Orders> ordersTableView;
 
     @FXML
