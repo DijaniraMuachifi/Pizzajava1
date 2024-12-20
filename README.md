@@ -2,7 +2,7 @@
 ## Pizza Management System
 
 ### Developed by:
-Dijanira and Alfred
+Dijanira 
 
 [GitHub Repository Link](https://github.com/DijaniraMuachifi/PizzajavaSeminar.git)
 
